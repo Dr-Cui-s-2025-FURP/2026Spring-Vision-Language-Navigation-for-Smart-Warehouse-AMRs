@@ -1,7 +1,5 @@
 # Vision-Language Navigation for Smart Warehouse AMRs
 
-> **FURP — FOSE Undergraduate Research Project**
-> School of Engineering | Undergraduate Research Programme
 
 ---
 
